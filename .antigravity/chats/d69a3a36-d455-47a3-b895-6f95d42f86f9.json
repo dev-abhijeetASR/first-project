@@ -4,5 +4,18 @@
   "createdAt": "2026-11-03T18:49:09.953Z",
   "filename": "d69a3a36-d455-47a3-b895-6f95d42f86f9.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "d38473a0-b485-405a-aba1-8710ca66acf2",
+      "role": "user",
+      "content": "I'm not able to add google sign in into this ide application",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-03T18:50:09.728Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
